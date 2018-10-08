@@ -1,0 +1,3 @@
+com\myschool\config\MvcWebApplicationInitializer.class
+com\myschool\config\DBConfig.class
+com\myschool\config\WebConfig.class
