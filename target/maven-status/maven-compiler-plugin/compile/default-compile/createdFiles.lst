@@ -1,3 +1,5 @@
+com\myschool\controller\baseController.class
 com\myschool\config\MvcWebApplicationInitializer.class
 com\myschool\config\DBConfig.class
 com\myschool\config\WebConfig.class
+com\myschool\controller\HomeController.class
